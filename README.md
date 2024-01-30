@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MQTT, Website Monitoring and Controller. 
 - 💞️ I’m looking to collaborate on Industrial Automation
 - 📫 How to reach me gmail adress : riziqevil111@gmail.com
-- 😄 Pronouns: Introvert boy
+- 😄 Pronouns: I'm boy
 - ⚡ Fun fact: I'm Elektronik Engineer
 
 <!---
