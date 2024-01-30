@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mturcot3
 - 👀 I’m interested in Internet of Things and Industrial Automation
-- 🌱 I’m currently learning MQTT, Website Monitoring and Controller. 
+- 🌱 I’m currently learning MQTT, IOT website. 
+- ⏳Programming Language C,HTML, CSS, PHP, Arduino IDE. 
 - 💞️ I’m looking to collaborate on Industrial Automation
 - 📫 How to reach me gmail adress : riziqevil111@gmail.com
 - 😄 Pronouns: I'm boy
