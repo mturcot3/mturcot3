@@ -4,8 +4,8 @@
 - ⏳Programming Language C,HTML, CSS, PHP, Arduino IDE. 
 - 💞️ I’m looking to collaborate on Industrial Automation
 - 📫 How to reach me gmail adress : riziqevil111@gmail.com
-- 😄 Pronouns: I'm boy
-- ⚡ Fun fact: I'm Elektronik Engineer
+- 😄 Pronouns: anonymous
+- ⚡ Fun fact: I'm Elektronics Engineer
 
 <!---
 mturcot3/mturcot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
