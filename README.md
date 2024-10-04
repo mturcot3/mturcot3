@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Industrial Automation
 - 📫 How to reach me gmail adress : riziqevil111@gmail.com or vcccola2@gmail.com
 - 😄 Pronouns: anonymous
-- ⚡ Fun fact: I'm Elektronics Engineer
+- ⚡ Fun fact: I'm Electronics Engineer
 
 <!---
 mturcot3/mturcot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
